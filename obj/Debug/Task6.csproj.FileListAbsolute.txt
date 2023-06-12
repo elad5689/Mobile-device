@@ -1,0 +1,15 @@
+C:\Users\yoavb\OneDrive\Documents\שנה א\סמסטר ב\C#\Task 6\Task6\Task6\bin\Debug\Task6.exe.config
+C:\Users\yoavb\OneDrive\Documents\שנה א\סמסטר ב\C#\Task 6\Task6\Task6\bin\Debug\Task6.exe
+C:\Users\yoavb\OneDrive\Documents\שנה א\סמסטר ב\C#\Task 6\Task6\Task6\bin\Debug\Task6.pdb
+C:\Users\yoavb\OneDrive\Documents\שנה א\סמסטר ב\C#\Task 6\Task6\Task6\obj\Debug\Task6.csprojAssemblyReference.cache
+C:\Users\yoavb\OneDrive\Documents\שנה א\סמסטר ב\C#\Task 6\Task6\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\Users\yoavb\OneDrive\Documents\שנה א\סמסטר ב\C#\Task 6\Task6\Task6\obj\Debug\Task6.exe
+C:\Users\yoavb\OneDrive\Documents\שנה א\סמסטר ב\C#\Task 6\Task6\Task6\obj\Debug\Task6.pdb
+C:\Users\elads\OneDrive\שולחן העבודה\לימודים\מטלות קוד יואב\C#\Task 6\Task6\Task6\bin\Debug\Task6.exe.config
+C:\Users\elads\OneDrive\שולחן העבודה\לימודים\מטלות קוד יואב\C#\Task 6\Task6\Task6\bin\Debug\Task6.exe
+C:\Users\elads\OneDrive\שולחן העבודה\לימודים\מטלות קוד יואב\C#\Task 6\Task6\Task6\bin\Debug\Task6.pdb
+C:\Users\elads\OneDrive\שולחן העבודה\לימודים\מטלות קוד יואב\C#\Task 6\Task6\Task6\obj\Debug\Task6.csproj.AssemblyReference.cache
+C:\Users\elads\OneDrive\שולחן העבודה\לימודים\מטלות קוד יואב\C#\Task 6\Task6\Task6\obj\Debug\Task6.csproj.SuggestedBindingRedirects.cache
+C:\Users\elads\OneDrive\שולחן העבודה\לימודים\מטלות קוד יואב\C#\Task 6\Task6\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\Users\elads\OneDrive\שולחן העבודה\לימודים\מטלות קוד יואב\C#\Task 6\Task6\Task6\obj\Debug\Task6.exe
+C:\Users\elads\OneDrive\שולחן העבודה\לימודים\מטלות קוד יואב\C#\Task 6\Task6\Task6\obj\Debug\Task6.pdb
